@@ -2,43 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f12eda1-100c-4367-863d-09bfaf0e9c20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/hero-banner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/fonts/Linearicons-Free.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/fonts/Linearicons-Free.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/fonts/Linearicons-Free.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/fonts/Linearicons-Free.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/fonts/Linearicons-Free.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/fonts/fa-brands-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/fonts/fa-brands-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/fonts/fa-brands-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/fonts/fa-brands-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/fonts/fa-regular-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/fonts/fa-regular-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/fonts/fa-regular-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/fonts/fa-regular-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/fonts/fa-solid-900.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/fonts/fa-solid-900.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/fonts/fa-solid-900.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/fonts/fa-solid-900.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/fonts/themify.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/fonts/themify.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/fonts/themify.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/fonts/themify.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/banner/hero-banner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/blog/blog-slider/blog-slide1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/blog/blog-slider/blog-slide2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/blog/blog-slider/blog-slide3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/blog/blog1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/blog/blog2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/blog/blog3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/blog/blog4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/styles.min.css" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +41,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574418054057</updated>
-      <workItem from="1574418060120" duration="5964000" />
+      <workItem from="1574418060120" duration="6559000" />
+      <workItem from="1574871968973" duration="12000" />
     </task>
     <servers />
   </component>
@@ -89,7 +54,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
