@@ -12,12 +12,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Ty2XYBl3vSxaGqn5p7g0X4uXgB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
@@ -45,7 +53,8 @@
       <updated>1574418054057</updated>
       <workItem from="1574418060120" duration="6559000" />
       <workItem from="1574871968973" duration="12000" />
-      <workItem from="1574878470274" duration="3507000" />
+      <workItem from="1574878470274" duration="4251000" />
+      <workItem from="1574968442088" duration="2117000" />
     </task>
     <servers />
   </component>
